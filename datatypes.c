@@ -25,6 +25,8 @@ main()
 
     printf("Hello World");
 
+    // format specifiers
+
     printf("  character is %c   ", cxfdsfdsf);
     printf("  short integer is  %hd   ", short_integer);
     printf("  integer is  %d   ", i);
@@ -32,7 +34,7 @@ main()
     printf("  long long integer is  %lld   ", lli);
     printf("  float is  %f   ", f);
     printf("  double is  %lf   ", d);
-    printf("  long double is  %llf   ", ld);
+    printf("  long double is  %Lf   ", ld);
 
     int a = 12;
     int b = 13;
