@@ -29,6 +29,6 @@ main()
     
     // keywords // reserved words // 32 keywords
 
-    int include = 23; // we can not use reserved words in varaible name    
+    int include = 23; // we can not use reserved words in varaible name
     
 }
