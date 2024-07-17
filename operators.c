@@ -53,7 +53,17 @@ int main()
     int x2 = 21;
     int y2 = 20;
 
-    printf("   %d   ", x2 < y2 || x2==y2 );
+    printf("   %d   ", x2 < y2 || x2 == y2);
+
+    // increment - decrement
+
+    // ++  --
+
+    int l = 34;
+    l = l-1;
+    l -= 1;
+    l--;
+    printf("%d", l);
 
     return 0;
 }
