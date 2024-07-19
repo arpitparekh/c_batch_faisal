@@ -10,7 +10,7 @@ int main()
     70-79: C
     60-69: D
     0-59: F
-
+    
     */
 
     printf("Enter Marks : ");
