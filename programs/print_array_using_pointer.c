@@ -16,4 +16,11 @@ void main()
     int arr[] = {12, 34, 567, 5, 45, 68, 9};
 
     printArray(&arr[0], 7);
+
+    // dynamic memory allocation
+    // malloc()
+    // calloc()
+    // realloc()
+    // free()
+    
 }
