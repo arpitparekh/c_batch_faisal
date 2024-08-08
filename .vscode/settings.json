@@ -2,6 +2,14 @@
   "files.associations": {
     "*.embeddedhtml": "html",
     "stdio.h": "c",
-    "typeinfo": "c"
+    "typeinfo": "c",
+    "bit": "c",
+    "compare": "c",
+    "concepts": "c",
+    "type_traits": "c",
+    "cmath": "c",
+    "limits": "c",
+    "new": "c",
+    "utility": "c"
   }
 }
