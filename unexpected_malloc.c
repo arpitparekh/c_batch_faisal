@@ -7,6 +7,9 @@ int main()
     int *ptr = (int *)malloc(10 * sizeof(int));
     int *duplicate = ptr;
 
+
+    
+
     // for (int i = 0; i < 10; i++)  // 0..9
     // {
     //     *ptr = i;
